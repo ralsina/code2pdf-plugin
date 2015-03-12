@@ -1,0 +1,1 @@
+A plugin to convert a file or a selection to PDF for printing or whatever, based on rst2pdf.
